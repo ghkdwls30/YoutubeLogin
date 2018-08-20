@@ -9,7 +9,7 @@
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
     <ProjectGuid>{50291C81-C9A1-4015-ABE3-4859D3056A96}</ProjectGuid>
-    <OutputType>Exe</OutputType>
+    <OutputType>WinExe</OutputType>
     <RootNamespace>YoutubeLogin</RootNamespace>
     <AssemblyName>YoutubeLogin</AssemblyName>
     <TargetFrameworkVersion>v4.6.1</TargetFrameworkVersion>
